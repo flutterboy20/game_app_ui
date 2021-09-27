@@ -1,0 +1,20 @@
+[
+    {
+        "imageUrl" : "assets/images/player1.png",
+        "name":"JetPack Joy",
+        "description": "Action Packed adventure game",
+        "rating": 4.9
+    },
+    {
+        "imageUrl" : "assets/images/player2.png",
+        "name":"X Fighter",
+        "description": "Battel Royal",
+        "rating": 4.5
+    },
+    {
+        "imageUrl" : "assets/images/player3.png",
+        "name":"Ninja Race",
+        "description": "Real time racing",
+        "rating": 4.2
+    }
+]
